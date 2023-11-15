@@ -30,7 +30,7 @@ Provide instructions on how to use your project. Include information on how to r
 
 Include examples of how to use your project. This can be simple code snippets or links to more extensive examples.
 
-![Alt text](https://github.com/watcharap0n/setup-pygmtsar/blob/master/.github/example.png?raw=true "Title")
+![Alt text](https://github.com/watcharap0n/setup-pygmtsar/blob/master/example.png?raw=true "Title")
 
 ## Contributing
 
